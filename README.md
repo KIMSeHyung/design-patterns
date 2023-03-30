@@ -2,5 +2,9 @@
 
 ## Behavioral patterns
 
-- [Strategy](https://github.com/KIMSeHyung/design-patterns/tree/main/strategy)
-- [Template-method](https://github.com/KIMSeHyung/design-patterns/tree/main/template-method)
+- [Strategy](strategy)
+- [Template-method](template-method)
+
+## Structural patterns
+
+- [Adapter](adapter)
