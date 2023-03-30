@@ -8,3 +8,7 @@
 ## Structural patterns
 
 - [Adapter](adapter)
+
+## Creational patterns
+
+- [Factory-method](factory-method)
