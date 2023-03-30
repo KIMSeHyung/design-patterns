@@ -1,5 +1,5 @@
 import Bow from "./Bow";
-import Charactor from "./charactor";
+import Charactor from "./Charactor";
 import Knife from "./Knife";
 
 const charactor = new Charactor();
