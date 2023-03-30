@@ -5,7 +5,7 @@ import jwt from "jsonwebtoken";
 class AuthService extends AbstractAuthService {
     private seceret = "secret";
     protected varify(token: string): void {
-        const a = jwt.verify(token, this.seceret);
+        jwt.verify(token, this.seceret);
     }
     protected encodeToken(id: string): string {
         return jwt.sign({id}, this.seceret);
