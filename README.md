@@ -12,3 +12,4 @@
 ## Creational patterns
 
 - [Factory-method](factory-method)
+- [Singleton](singleton)
