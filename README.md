@@ -13,3 +13,4 @@
 
 - [Factory-method](factory-method)
 - [Singleton](singleton)
+- [Prototype](prototype)
